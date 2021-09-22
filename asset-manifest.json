@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ecom-website/static/css/main.4a9a193a.chunk.css",
+    "main.js": "/ecom-website/static/js/main.8789a045.chunk.js",
+    "main.js.map": "/ecom-website/static/js/main.8789a045.chunk.js.map",
+    "runtime-main.js": "/ecom-website/static/js/runtime-main.8b25387f.js",
+    "runtime-main.js.map": "/ecom-website/static/js/runtime-main.8b25387f.js.map",
+    "static/js/2.839e2faa.chunk.js": "/ecom-website/static/js/2.839e2faa.chunk.js",
+    "static/js/2.839e2faa.chunk.js.map": "/ecom-website/static/js/2.839e2faa.chunk.js.map",
+    "index.html": "/ecom-website/index.html",
+    "static/css/main.4a9a193a.chunk.css.map": "/ecom-website/static/css/main.4a9a193a.chunk.css.map",
+    "static/js/2.839e2faa.chunk.js.LICENSE.txt": "/ecom-website/static/js/2.839e2faa.chunk.js.LICENSE.txt",
+    "static/media/banana.86de983b.jpg": "/ecom-website/static/media/banana.86de983b.jpg",
+    "static/media/drumstick.821cc33c.jpg": "/ecom-website/static/media/drumstick.821cc33c.jpg",
+    "static/media/img-1.877194a4.png": "/ecom-website/static/media/img-1.877194a4.png",
+    "static/media/img-3.c3733d58.png": "/ecom-website/static/media/img-3.c3733d58.png",
+    "static/media/img-4.02258f68.jpg": "/ecom-website/static/media/img-4.02258f68.jpg",
+    "static/media/img-5.95db33ab.jpg": "/ecom-website/static/media/img-5.95db33ab.jpg",
+    "static/media/orange.4cf44316.jpg": "/ecom-website/static/media/orange.4cf44316.jpg",
+    "static/media/potato.e01da71c.jpg": "/ecom-website/static/media/potato.e01da71c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b25387f.js",
+    "static/js/2.839e2faa.chunk.js",
+    "static/css/main.4a9a193a.chunk.css",
+    "static/js/main.8789a045.chunk.js"
+  ]
+}
